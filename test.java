@@ -3,5 +3,8 @@ public class test {
         System.out.println("This is my first code");
 
     //he is a boy
+
+    int m = 5;
+    System.out.println(m);
     }
 }
